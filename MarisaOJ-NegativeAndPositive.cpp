@@ -12,7 +12,7 @@ void solve(){
         if(a[i] < 0) cout << a[i] << " ";
     }
     for(int i = 0; i < n; i++){
-        if(a[i] < 0) cout << a[i] << " ";
+        if(a[i] > 0) cout << a[i] << " ";
     }
 }
 
